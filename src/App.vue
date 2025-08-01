@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Github App</h1>
+    <h1>Github App small change</h1>
     <GitHubTokenForm />
     <User />
     <Repos />
